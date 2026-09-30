@@ -1,4 +1,4 @@
-# Project Name
+# Line Compare
 
 A simple line compare showing all changes and modifications from two different texts.
 
